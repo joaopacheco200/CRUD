@@ -6,6 +6,21 @@
     <title>Imprimir Saldo</title>
 </head>
 <body>
+    <div>
+        <form action="#" method="post">
+
+            <input type="text" name="nome" placeholder="Nome:">
+
+            <input type="number" name="numConta" placeholder="Numero da conta:">
+
+            <input type="number" name="saldo" placeholder="Saldo:">
+
+
+        </form>
+
+
+    </div>
     
+
 </body>
 </html>

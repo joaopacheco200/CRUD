@@ -14,7 +14,8 @@
         <a href="./cadastrar.php"> Cadastrar </a>
         <a href="./depositar.php"> Depositar </a>
         <a href="./sacar.php"> Sacar </a>
-        <a href="./imprimir.php"> Mostrar Saldo </a>
+        <a href="./imprimir.php"> Imprimir </a>
+        
 
     </div>
 
